@@ -1,0 +1,37 @@
+header  {
+	background: #231f1f;
+	// padding-bottom: 10px;
+	padding-top: 10px;
+	margin-bottom: 10px;
+}
+
+header .navbar-cutom-menu {
+    background-color: #231f1f;
+    border-color: #231f1f;
+}
+
+header .navbar-brand.brand {
+    padding: 0 15px;
+}
+
+.aside {
+	background: #EEE;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-bottom: 20px;
+}
+footer {
+	border-top: 10px solid #231f1f;
+	background: #000;
+	margin-top: 30px;
+}
+
+footer p {
+	color: #FFF;
+	line-height: 40px;
+	height: 30px;
+}
+
+.img-margin-right {
+    margin-right: 20px;
+}
